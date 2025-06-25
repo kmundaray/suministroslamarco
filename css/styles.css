@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Modern Business v5.0.7 (https://startbootstrap.com/template-overviews/modern-business)
@@ -10825,6 +10826,9 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+=======
+/* Custom styles for index page */
+>>>>>>> f43fd7224216015b5dde9623194f59d37ae369de
 body,
 html {
   height: 100%;
@@ -10839,16 +10843,7 @@ html {
   font-size: 1.5rem;
 }
 
-.bg-featured-blog {
-  height: 100%;
-  width: 100%;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  min-height: 15rem;
-}
-/* Resize logo in top nav bar */
 .navbar-brand img {
-    max-height: 50px;
-    width: auto;
+  max-height: 50px;
+  width: auto;
 }
